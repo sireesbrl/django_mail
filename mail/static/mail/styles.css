@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+textarea {
+    min-height: 400px;
+}
+
+.list-group {
+    padding: .5rem;
+    border-style: solid;
+}
+.email-timestamp {
+    text-align: right;
+}
+
+hr {
+    background-color: white;
+}
